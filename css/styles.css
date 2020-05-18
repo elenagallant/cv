@@ -1,0 +1,21 @@
+body {
+  background-color:#f8f3eb;
+  font-family: Calibri,Verdana,Arial;
+}
+
+hr {
+  border-top: 3px dotted #f40552;
+  width: 30%;
+}
+
+h1 {
+  color: #fc7e2f;
+  font-family: Calibri,Verdana,Arial;
+  text-transform: uppercase;
+}
+
+h3 {
+  color: #f40552;
+  font-family: Calibri,Verdana,Arial;
+  text-transform: uppercase;
+}
